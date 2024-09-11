@@ -1,5 +1,5 @@
 
-I am currently a second-semester junior at Boston University studying Computer Engineering. 
+I am currently a senior at Boston University studying Computer Engineering. 
 
 I am particularly interested in hardware and low-level software.
 
